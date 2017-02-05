@@ -1,8 +1,6 @@
 # FINT Role HTTP Header
 
-[![Build Status](https://jenkins.rogfk.no/buildStatus/icon?job=FINTprosjektet/fint-role-http-header/master)](https://jenkins.rogfk.no/job/FINTprosjektet/job/fint-role-http-header/job/master/)
-
-
+[![Build Status](https://travis-ci.org/FINTlibs/fint-role-http-header.svg?branch=master)](https://travis-ci.org/FINTlibs/fint-role-http-header)
 
 ## Installation
 
